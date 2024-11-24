@@ -1,1 +1,1 @@
-Graphical interface templates for language C.
+# Graphical interface models for the C language
