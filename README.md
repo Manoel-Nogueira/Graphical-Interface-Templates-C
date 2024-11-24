@@ -1,2 +1,2 @@
-# Graphical Interface Models
-Graphical interface models for the C language
+# Graphical Interface Templates
+Graphical interface Templates for the C language.
