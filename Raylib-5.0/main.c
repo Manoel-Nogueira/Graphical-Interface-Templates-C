@@ -18,7 +18,7 @@ int main(void)
     const int screenWidth = 800;
     const int screenHeight = 450;
 
-    InitWindow(screenWidth, screenHeight, "The Kingdom of Fusfe");
+    InitWindow(screenWidth, screenHeight, "Raylib-5.0");
 
     SetTargetFPS(60);               // Set our game to run at 60 frames-per-second
     //--------------------------------------------------------------------------------------
